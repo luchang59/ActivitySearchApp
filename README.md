@@ -37,12 +37,21 @@ flask run --host=0.0.0.0
 ### 3. User created and joined activities screen
 <img src="https://github.com/luchang59/ActivitySearchApp/blob/demo/sceenshots/usersActivitiesScreen.jpg" width = "50%" height = "50%" alt="user activities" align=center />
 
-### 4. Side bar
+### 4. Edit or Cancel Activity Screen
+<img src="https://github.com/luchang59/ActivitySearchApp/blob/demo/sceenshots/create&editScreen.jpg" width = "50%" height = "50%" alt="user activities" align=center />
+<img src="https://github.com/luchang59/ActivitySearchApp/blob/demo/sceenshots/edit&cancelActivity.jpg" width = "50%" height = "50%" alt="user activities" align=center />
+
+### 6. Side bar
 <img src="https://github.com/luchang59/ActivitySearchApp/blob/demo/sceenshots/sideBar.jpg" width = "50%" height = "50%" alt="user activities" align=center />
 
 ## Reference
 https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+
 https://blog.miguelgrinberg.com/post/restful-authentication-with-flask
+
 https://flask-sqlalchemy.palletsprojects.com/en/2.x/
+
 https://www.udemy.com/course/react-native-the-practical-guide/
+
 https://developer.okta.com/blog/2018/12/20/crud-app-with-python-flask-react
+
