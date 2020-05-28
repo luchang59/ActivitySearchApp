@@ -1,6 +1,8 @@
 # ActivitySearchApp
 It is a mini react app which can help user to create and join activities. Just for fun!
 
+## IP 
+Replace all the IP address in /activity/store/actions/activity.js file and /activity/store/reducers/user.js file into your own IP address
 ## Frontend: 
 React-Native
 ### Install:
